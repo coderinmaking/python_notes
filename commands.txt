@@ -27,7 +27,7 @@ conda update conda
 
 3. If not installed then install anaconda by visiting the website, download the script file and running it by 
 
-./filename.sh
+sh filename.sh
 
 4. Check the installed python versions available for using in the virtual environment.
 
